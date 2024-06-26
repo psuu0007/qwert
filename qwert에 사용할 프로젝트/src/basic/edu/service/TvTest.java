@@ -8,7 +8,9 @@ public class TvTest {
 		System.out.println("로컬 저장소");
 		System.out.println("원격 저장소");
 		
+		Tv t = new Tv();
 		
+		t.info();
 	}
 	
 }
