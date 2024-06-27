@@ -31,6 +31,9 @@ public class TvTest {
 		System.out.println("khh");
 
 		System.out.println("psu");
+
+		System.out.println("두 사람 미안해");
+
 	}
 	
 }
