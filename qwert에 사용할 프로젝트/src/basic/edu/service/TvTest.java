@@ -12,7 +12,11 @@ public class TvTest {
 		
 		t.info();
 		
+
 		System.out.println("cmy");
+
+		System.out.println("이게 나야");
+
 	}
 	
 }
