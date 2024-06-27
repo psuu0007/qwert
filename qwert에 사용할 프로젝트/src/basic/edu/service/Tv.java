@@ -1,3 +1,5 @@
+package basic.edu.service;
+
 public class Tv{
 
   boolean power = false;
