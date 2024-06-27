@@ -16,6 +16,9 @@ public class TvTest {
 		System.out.println("cmy");
 
 		System.out.println("이게 나야");
+		
+		System.out.println("이상현");
+
 
 	}
 	
