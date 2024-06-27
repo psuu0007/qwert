@@ -20,6 +20,8 @@ public class TvTest {
 		System.out.println("이상현");
 		
 		System.out.println("조무연");
+		
+		System.out.println("김민재");
 
 
 	}
