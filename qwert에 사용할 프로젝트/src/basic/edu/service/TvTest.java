@@ -11,6 +11,8 @@ public class TvTest {
 		Tv t = new Tv();
 		
 		t.info();
+		
+		System.out.println("이게 나야");
 	}
 	
 }
