@@ -26,6 +26,8 @@ public class TvTest {
 		System.out.println("김유경");
 		
 		System.out.println("김보근");
+		
+		System.out.println("김진우");
 
 
 	}
